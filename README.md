@@ -43,10 +43,5 @@ The system was tested using multiple input combinations to verify:
 - Integration of control logic with arithmetic units
 - Simulation and testing of digital systems
 
-## 🚀 Future Improvements
-- Extend to multi-digit BCD operations
-- Implement using hardware (FPGA or microcontroller)
-- Optimize circuit efficiency
-
 ## 👨‍💻 Author
 Nadhir Hajireen
